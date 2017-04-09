@@ -8,5 +8,4 @@ GitHub is connected!
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Now added a test branch.
-This is a branch test............
-11111
+
