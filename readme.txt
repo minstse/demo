@@ -5,3 +5,4 @@ Git is best version control sysem.
 Git tracks changes of files.
 My stupid boss still prefers
 GitHub is connected!
+Creating a new branch is quick.
